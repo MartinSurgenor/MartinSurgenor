@@ -1,4 +1,14 @@
-👋👋👋👋👋 Hello I am Martin From Hynx. My Whatsapp Number is +44 7497 245040. Please kindly message me if you are using Whatsapp more flexible. Thank you. 😄😄😄😄😄
+# 👋 Hi I am Martin from Hynx
+
+## Introduction
+
+Hi! I'm Martin from Hynx. I'm here to offer you the best service you want. If you have any questions, need assistance, or just want to chat, feel free to reach out.
+
+## Contact
+
+If you want to contact me, you can reach me at +44 7497 245040 via Whatsapp.
+
+# Thank you.
 
 <!---
 MartinSurgenor/MartinSurgenor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

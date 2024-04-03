@@ -4,9 +4,9 @@
 
 Hi! I'm Martin from Hynx. I'm here to offer you the best service you want. If you have any questions, need assistance, or just want to chat, feel free to reach out.
 
-## Contact via Whatsapp
+## Contact via Whatsapp with Angella
 
-If you want to contact me, you can reach me at +44 7497 245040 via Whatsapp.
+If you want to contact me, you can reach me at +44 7497 245040 via Whatsapp. Please send me hi for more flexible communication.
 
 # Thank you.
 

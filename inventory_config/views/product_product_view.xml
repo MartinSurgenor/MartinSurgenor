@@ -1,0 +1,100 @@
+<odoo>
+    <record id="product_template_only_form_view_extended" model="ir.ui.view">
+        <field name="name">product.template.product.form.extended</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="product.product_template_only_form_view"/>
+        <field name="arch" type="xml">
+            <page name="general_information" position="after">
+                <page name="x_details" string="Product Details">
+                    <group>
+                        <group>
+                            <field name="employee_id"/>
+                            <field name="purchase_format_summary"/>
+                            <field name="minimum_purchase_format_qty"/>
+                            <field name="individual_minimum_purchase_qty"/>
+                            <field name="is_white_brand"/>
+                            <field name="white_brand_name"/>
+                            <field name="x_origen"/>
+                            <field name="certification_name"/>
+                            <field name="is_manufacture"/>
+                            <field name="pos_cross_sale"/>
+                            <field name="web_cross_sales"/>
+                            <field name="pos_promotional_product"/>
+                            <field name="web_promotional_product"/>
+                            <field name="pos_fidelity"/>
+                            <field name="web_fidelity"/>
+                            <field name="profit"/>
+                            <field name="x_studio_tipo"/>
+                            <field name="x_studio_estado"/>
+                            <field name="x_studio_protein"/>
+                            <field name="x_studio_gluten"/>
+                            <field name="x_studio_lactose"/>
+                            <field name="x_studio_sugar"/>
+                            <field name="x_studio_edamam"/>
+                            <field name="available_in_pos"/>
+                            <field name="x_studio_web"/>
+                            <field name="warehouse_letter"/>
+                            <field name="warehouse_number"/>
+                            <field name="point_of_sale_cross_sale"/>
+                            <field name="point_of_sale_promotional_product"/>
+                            <field name="point_of_sale_fidelity"/>
+                        </group>
+                        <group>
+                            <field name="company_brand"/>
+                            <field name="reordering_min_qty"/>
+                            <field name="reordering_max_qty"/>
+                            <field name="requested_qty"/>
+                            <field name="cross_sale_image_1"/>
+                            <field name="cross_sale_image_2"/>
+                            <field name="cross_sale_image_3"/>
+                            <field name="image_1"/>
+                            <field name="image_2"/>
+                            <field name="image_3"/>
+                            <field name="image_4"/>
+                            <field name="official_source_url_1"/>
+                            <field name="a_beta_caroteno"/>
+                            <field name="b1_tiamina"/>
+                            <field name="b2_riboflamina"/>
+                            <field name="b3_niacina"/>
+                            <field name="b5_acido_pantotenico"/>
+                            <field name="b6_piridoxina"/>
+                            <field name="b8_biotina"/>
+                            <field name="b9_acido_folico"/>
+                            <field name="b12_cobalaminas"/>
+                            <field name="c_acido_ascorbico"/>
+                            <field name="x_field_d"/>
+                            <field name="x_field_e"/>
+                            <field name="x_field_k"/>
+                            <field name="calcio"/>
+                            <field name="cobre"/>
+                            <field name="cromo"/>
+                            <field name="fluor"/>
+                            <field name="fosforo"/>
+                            <field name="hierro"/>
+                            <field name="magnesio"/>
+                            <field name="potasio"/>
+                            <field name="selenio"/>
+                            <field name="yodo"/>
+                            <field name="zinc"/>
+                            <field name="energia"/>
+                            <field name="proteinas"/>
+                            <field name="fibra"/>
+                            <field name="beneficios"/>
+                            <field name="beneficios_1"/>
+                            <field name="beneficios_2"/>
+                            <field name="beneficios_3"/>
+                            <field name="beneficios_4"/>
+                            <field name="beneficios_5"/>
+                            <field name="beneficios_6"/>
+                            <field name="beneficios_7"/>
+                            <field name="official_source_url_2"/>
+                            <field name="x_studio_english_name"/>
+                            <field name="x_studio_pos_name"/>
+                            <field name="x_studio_requested"/>
+                        </group>
+                    </group>
+                </page>
+            </page>
+        </field>
+    </record>
+</odoo>

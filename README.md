@@ -1,1 +1,1 @@
-
+Hi Kwame. This is Martin. Can we talk about Bitcoin and Cash outside of that platform because they have stiff policy about crypto and cash(outside of payment)? My email is godfulldev@gmail.com...Please send me "hi" there..

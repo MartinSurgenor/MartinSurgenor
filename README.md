@@ -1,1 +1,1 @@
-Hi Muhammed. This is Martin. Can we talk about Crypto project outside of that platform because they have stiff policy about crypto project? Maybe my account will close. My email is godfulldev@gmail.com...Please send me "hi" there..
+

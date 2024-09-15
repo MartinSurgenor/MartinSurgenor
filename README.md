@@ -1,1 +1,1 @@
-
+Hi Dilara, This is Martin. Can we talk on telegram? This is my telegram id: @martin926..And you can call me diretly by my google phone: +1 804 767 7267: or email address: godfulldev@gmail.com...And it is not allowed to talk with other communication website like vixcall.live..Sorry, let's create another meeting on Telegram. Thank you. Please don't talk on Freelancer.com anymore.

@@ -1,5 +1,17 @@
-Hello, bro...You can put your contact info here....
+Hi, Jack.
 
-The best simple I have used before.
+This is Martin from Freelancer platform.
 
-"Hi, shenme shenme. This is Daria. I will just be offline on freelancer.com for some days. Regarding the project we can discuss with email or whatsapp(telegram or skype)..This is my whatsapp number(tg, skype addrs). Don't worry. I will be full time online there. Let's tak there. Thanks.."
+I will just be offline on freelancer.com for some days.
+
+Regarding your urgent project we can discuss with email or phone.
+
+This is my email and phone number.+18047677267 Email:godfulldev@gmail.com
+
+Don't worry. I will be full time online there.
+
+Let's tak there.
+
+Thanks,
+
+Martin.
